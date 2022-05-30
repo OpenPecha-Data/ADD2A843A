@@ -1,0 +1,25 @@
+segment_sources:
+  I396A0009:
+    type: origin_type
+    relation: translation
+    language: en
+  IC303C666:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4094951af4b8497ab81b15d9c336fa3c:
+    I396A0009: d34da157b7bb42b8819ed77caa0ab738
+    IC303C666: e97cddc0545e4640986f6b66d3ce5b31
+  91cc23fd31254e9289f50cd9a5ca2fb8:
+    I396A0009: f0db9d3178c94e95a1b7bec8ad0405bd
+    IC303C666: 70f54bb441e14641babc60e0b565286c
+  6ee6b004f9514e4591b8f34753dcde0e:
+    I396A0009: 7e6edf0943134cb9ac215c7832c8fd43
+    IC303C666: dab9a0119d48488a9d08ea345cf2da05
+  062f08dc91ae4213a885fff1560b9c8c:
+    I396A0009: 2838f0254a7c481a92475c817eafbc47
+    IC303C666: 6ef14153ba9040fbb9002238be654cf8
+  285bb1a8f9224c4f94e1e5ed98561086:
+    I396A0009: 61febd0f9f26447fb1fb9a37a477305b
+    IC303C666: 28285e78a0c140c1841dc277e47cc44b
